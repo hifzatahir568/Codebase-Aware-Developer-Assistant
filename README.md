@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Codebase Aware Developer Assistant
 
 A custom RAG-based code analysis assistant that indexes local repositories and answers questions using retrieved code context. The project combines a FastAPI backend, SQLite storage, local embeddings, and a lightweight React frontend to let users register a codebase, build an index, and ask grounded questions with citations.
@@ -313,3 +314,7 @@ Example markdown:
 - Replace local similarity search with a dedicated vector index
 - Add more robust evaluation and test coverage
 - Support incremental indexing and change detection
+=======
+# Codebase-Aware-Developer-Assistant
+Custom RAG-based codebase assistant built with FastAPI, SQLite, sentence-transformers, and Hugging Face transformers.
+>>>>>>> b5734fa2c9faac74cf2fb3b904fe0e77d5f50aa1
